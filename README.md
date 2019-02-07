@@ -1,6 +1,6 @@
 # react-native-document-picker
 
-**WARNING: Experimental branch of v3 /!\**
+Forked from: https://github.com/Elyx0/react-native-document-picker
 
 A React Native wrapper for:
  * *Android*: ``Intent.ACTION_OPEN_DOCUMENT`` / ``Intent.ACTION_PICK``
@@ -11,7 +11,7 @@ A React Native wrapper for:
 ## Installation
 
 ```sh
-npm i --save react-native-document-picker
+npm i --save @foqum/react-native-document-picker
 ```
 
 ### Automatically Link Native Modules
